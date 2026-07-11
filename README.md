@@ -1,18 +1,25 @@
 # Cyber Security Internship Projects
 
-This repository contains two cybersecurity projects completed as part of my internship.
+This repository contains two cybersecurity projects completed as part of my internship at Codec Technologies.
 
 ## Projects
 
 ### 1. Secure Web Application
-- Flask
-- Authentication
+- User Registration & Login
 - Password Hashing
-- Secure Coding
+- Authentication
+- Secure Coding Practices
 
-### 2. Cryptography Algorithms
-- AES
-- RSA
-- SHA-256
+### 2. Cryptography Algorithms Implementation
+- AES Encryption
+- RSA Encryption
+- SHA-256 Hashing
+
+## Technologies Used
+
+- Python
+- Flask
+- SQLite
+- Cryptography Library
 
 Author: Ankit Jaiswal
