@@ -29,9 +29,3 @@ This project demonstrates core cryptography concepts using Python. It provides a
    - `pip install -r requirements.txt`
 4. Start the program:
    - `python main.py`
-
-## Screenshots
-
-- Main Menu: Add screenshot here
-- AES Demo: Add screenshot here
-- RSA Demo: Add screenshot here
